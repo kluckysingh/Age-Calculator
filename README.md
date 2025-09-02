@@ -1,3 +1,3 @@
-Age Calculator usint HTML CSS JS 
+Age Calculator using HTML CSS JS 
 
 https://kluckysingh.github.io/Age-Calculator/
